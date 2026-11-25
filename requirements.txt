@@ -1,0 +1,10 @@
+boto3
+ipykernel
+jupyterlab
+matplotlib
+netCDF4
+numpy
+pandas
+pyproj
+torch
+xarray
